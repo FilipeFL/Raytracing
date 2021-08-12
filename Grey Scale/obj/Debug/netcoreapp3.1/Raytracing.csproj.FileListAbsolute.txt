@@ -1,0 +1,13 @@
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.exe
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.deps.json
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.runtimeconfig.json
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.runtimeconfig.dev.json
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.dll
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\bin\Debug\netcoreapp3.1\Raytracing.pdb
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.csprojAssemblyReference.cache
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.dll
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.pdb
+C:\Users\filip\OneDrive\Documentos\PUC MINAS\Pipeline de Render Gráfico I\Atividades em Aula Raytracing - (Escala de Cinza)\Raytracing\obj\Debug\netcoreapp3.1\Raytracing.genruntimeconfig.cache
